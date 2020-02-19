@@ -1,0 +1,12 @@
+---
+engines:
+  credo:
+    enabled: true
+    channel: v1.1.5
+  fixme:
+    enabled: true
+  remark-lint:
+    enabled: true
+styleguide: sourcelevel/linters
+exclude_paths:
+- test
